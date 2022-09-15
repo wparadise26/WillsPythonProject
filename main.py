@@ -1,0 +1,6 @@
+yourname = input("What is your name?")
+print("Hello " + yourname)
+yourmajor = input("What is your Major?")
+print(yourmajor + ", Thats awesome! Computers are always helpful in the adult world so a computer class will always teach you something im")
+YourFavClass = input("What is your favorite class?")
+print("So you are " + yourname + " and you are studying " + yourmajor + ", and your favorite class is " + YourFavClass + ".")
